@@ -5,7 +5,7 @@ The application allows the user to write their own flashcard app and save it.
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/a/ATJiW5c.gif" width=200><br>
+<img src="https://i.imgur.com/V01IHTn.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
