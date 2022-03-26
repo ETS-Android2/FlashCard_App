@@ -4,7 +4,7 @@
 Allows the user to add vaious flashcard app and view them through a library of flashcards
 
 ### App Walk-though
-<img src="https://i.imgur.com/Zx3cgDL.mp4" width=200><br>
+<img src="https://i.imgur.com/zQ6YJcL.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
