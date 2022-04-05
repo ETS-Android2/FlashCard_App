@@ -14,8 +14,8 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="108dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="46dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
         android:hint="Enter the question here" />
@@ -24,11 +24,13 @@
         android:id="@+id/flashcard_answer_edittext"
         android:layout_width="match_parent"
         android:layout_height="70dp"
-        android:layout_marginStart="20dp"
-        android:layout_marginEnd="20dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="154dp"
+        android:layout_marginEnd="20dp"
+        android:autofillHints=""
         android:hint="Enter the answer here" />
 
     <ImageView
@@ -36,12 +38,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="9dp"
-        android:layout_marginTop="674dp"
-        android:layout_marginEnd="20dp"
-        android:layout_marginBottom="7dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="342dp"
+        android:layout_marginBottom="10dp"
         android:src="@drawable/icon_save" />
 
     <ImageView
@@ -50,9 +51,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="8dp"
-        android:layout_marginBottom="6dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
         android:src="@drawable/icon_cancel" />
-
-
 </RelativeLayout>
