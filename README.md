@@ -4,7 +4,7 @@
 Added an animation trasitoin for the flashcard questions and the add button function. I also added a launcher icon for my app
 
 ### App Walk-though
-<img src="https://i.imgur.com/rDN5sF1.gif" width=200><br>
+<img src="https://i.imgur.com/Sc5XmtP.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
@@ -12,7 +12,7 @@ Added an animation trasitoin for the flashcard questions and the add button func
 - [x] User sees flashcards animating in / out when the 'next' button is tapped
 
 ## Optional
-- [x] Extra styling is added!
+- [ ] Extra styling is added!
 - [ ] User sees a countdown timer for each question
 - [ ] User sees a 'card flip' animation when the card is tapped
 - [ ] User sees a celebration animation with confetti when they answer a question correctly
