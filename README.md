@@ -1,11 +1,9 @@
 ## Lab 4
 
 ### App Description
-`TODO://` Add app description
+Added an animation trasitoin for the flashcard questions and the add button function. I also added a launcher icon for my app
 
 ### App Walk-though
-Added an animation trasitoin for the flashcard questions and the add button function
-
 <img src="https://i.imgur.com/rDN5sF1.gif" width=200><br>
 
 ## Required
